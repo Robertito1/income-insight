@@ -20,7 +20,6 @@ const LoginForm = () =>{
                 onSubmit={(values, { setSubmitting }) => {
                     setTimeout(() => {
                         navigate('/dashboard')
-                        console.log(values)
                     setSubmitting(false);
                     }, 400);
                 }}

@@ -1,9 +1,9 @@
-import React from 'react'
-import CashOutflow from './cashOutflow'
-import CurrentAccount from './currentAccount'
-import MonthSummary from './monthSummary'
-import RecentTransactions from './recentTransactions'
-import SavingsAccount from './savingsAccount'
+import React from 'react';
+import CashOutflow from './cashOutflow';
+import CurrentAccount from './currentAccount';
+import MonthSummary from './monthSummary';
+import RecentTransactions from './recentTransactions';
+import SavingsAccount from './savingsAccount';
 
 
 const DashboardDetails = () => {

@@ -1,7 +1,7 @@
 export const data = {
     labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'June'],
     datasets: [{
-        label: '4 of Votes',
+        label: 'Finance flow',
         data: [6, 11, 13, 15, 12, 7],
         backgroundColor: [
             'rgba(255, 99, 132, 0.2)',
@@ -20,5 +20,6 @@ export const data = {
             'rgba(255, 159, 64, 1)'
         ],
         borderWidth: 1
-    }]
+    },
+]
 }
