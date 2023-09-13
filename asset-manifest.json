@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/income-insights/static/css/main.08f23b77.css",
-    "main.js": "/income-insights/static/js/main.0b5d88cd.js",
-    "static/media/user.png": "/income-insights/static/media/user.303a3adcb019e6ac19fb.png",
-    "static/media/bank.png": "/income-insights/static/media/bank.eba7d82bc31956dc6319.png",
-    "static/media/coin.png": "/income-insights/static/media/coin.9fea89e84e8162c550dc.png",
-    "index.html": "/income-insights/index.html",
-    "main.08f23b77.css.map": "/income-insights/static/css/main.08f23b77.css.map",
-    "main.0b5d88cd.js.map": "/income-insights/static/js/main.0b5d88cd.js.map"
+    "main.css": "/income-insight/static/css/main.08f23b77.css",
+    "main.js": "/income-insight/static/js/main.231192f4.js",
+    "static/media/user.png": "/income-insight/static/media/user.303a3adcb019e6ac19fb.png",
+    "static/media/bank.png": "/income-insight/static/media/bank.eba7d82bc31956dc6319.png",
+    "static/media/coin.png": "/income-insight/static/media/coin.9fea89e84e8162c550dc.png",
+    "index.html": "/income-insight/index.html",
+    "main.08f23b77.css.map": "/income-insight/static/css/main.08f23b77.css.map",
+    "main.231192f4.js.map": "/income-insight/static/js/main.231192f4.js.map"
   },
   "entrypoints": [
     "static/css/main.08f23b77.css",
-    "static/js/main.0b5d88cd.js"
+    "static/js/main.231192f4.js"
   ]
 }
