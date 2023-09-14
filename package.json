@@ -1,5 +1,6 @@
 {
   "name": "incomeinsights",
+  "homepage": "http://robertito1.github.io/income-insight",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
